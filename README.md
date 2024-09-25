@@ -1,10 +1,3 @@
-[![BannerHelp](https://cdn.verdaccio.dev/readme/banner-uk.svg)](https://u24.gov.ua)
-
-> Verdaccio stands for **peace**, stop the war, we will be yellow / blue 🇺🇦 until that happens.
-
-![verdaccio logo](https://cdn.verdaccio.dev/readme/verdaccio@2x.png)
-
-![verdaccio gif](https://cdn.verdaccio.dev/readme/readme-website.png)
 
 # Version Next (Development branch)
 
